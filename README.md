@@ -8,7 +8,7 @@ A sleek web application that provides intelligent text suggestions as you type i
 - Lightweight and fast
 
 ## Live Demo 🌐
-Try it out here: [https://iam269.github.io/Predictive-Text-On-Input-Fields/](https://iam269.github.io/Predictive-Text-On-Input-Fields/)
+Try it out here: [https://itsiamdev.github.io/Predictive-Text-On-Input-Fields/](https://itsiamdev.github.io/Predictive-Text-On-Input-Fields/)
 
 ## Technologies Used 🛠️
 - HTML5
